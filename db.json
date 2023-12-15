@@ -1,0 +1,59 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "titulo": "Desenvolvedor(a) PHP Sênior",
+      "descricao": "Conhecimentos em Laravel, Banco de Dados Oracle, PL/SQL e desejavel Sql Server,Testes unitários e integrados, Nuvem (Ex. Azure/Devops, AWS), Git ",
+      "salario": 12000,
+      "modalidade": "1",
+      "tipo": "2",
+      "nivel": "4",
+      "quantidade": 1,
+      "publicacao": "2023-12-06T20:44:51.073Z"
+    },
+    {
+      "titulo": "Desenvolvedor(a) .Net/Angular Pleno",
+      "descricao": "Conhecimentos em .NET Core, Angular 6+, Entity Framework, Dapper, WebAPIs, SQL Server / T-SQLGIT",
+      "salario": 8500,
+      "modalidade": "1",
+      "tipo": "1",
+      "nivel": "3",
+      "quantidade": 1,
+      "publicacao": "2023-12-06T22:08:37.215Z",
+      "id": 2
+    },
+    {
+      "titulo": "Analista de Segurança de Redes Pleno",
+      "descricao": "Conhecimento avançado em switches Cisco NXOS/IOS, conhecimento em ambientes de missão crítica, possuir Certificação CCNP Cisco Certified Network Professional ",
+      "salario": 8000,
+      "modalidade": "2",
+      "tipo": "2",
+      "nivel": "3",
+      "quantidade": 2,
+      "publicacao": "2023-12-06T23:08:56.243Z",
+      "id": 3
+    },
+    {
+      "titulo": "Desenvolvedor VueJs",
+      "descricao": "Requisitos: Vue.js, JavaScript avançado, Web pack, HTML5, CSS3, SASS, GIT, Noções de UX/UI",
+      "salario": 6000,
+      "modalidade": "1",
+      "tipo": "1",
+      "nivel": "3",
+      "quantidade": 2,
+      "publicacao": "2023-12-14T20:47:26.163Z",
+      "id": 4
+    },
+    {
+      "titulo": "Testes de Software QA",
+      "descricao": "Conhecimentos em lógica de programação.\nNoções básicas em Git.",
+      "salario": 1200,
+      "modalidade": "2",
+      "tipo": "2",
+      "nivel": "1",
+      "quantidade": 1,
+      "publicacao": "2023-12-14T20:51:06.128Z",
+      "id": 5
+    }
+  ]
+}
